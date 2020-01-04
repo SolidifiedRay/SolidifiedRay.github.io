@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cytus2wiki/static/css/main.01a843e9.chunk.css",
+    "main.js": "/cytus2wiki/static/js/main.4eae683c.chunk.js",
+    "main.js.map": "/cytus2wiki/static/js/main.4eae683c.chunk.js.map",
+    "runtime-main.js": "/cytus2wiki/static/js/runtime-main.280f01ab.js",
+    "runtime-main.js.map": "/cytus2wiki/static/js/runtime-main.280f01ab.js.map",
+    "static/js/2.b7c2f0e2.chunk.js": "/cytus2wiki/static/js/2.b7c2f0e2.chunk.js",
+    "static/js/2.b7c2f0e2.chunk.js.map": "/cytus2wiki/static/js/2.b7c2f0e2.chunk.js.map",
+    "index.html": "/cytus2wiki/index.html",
+    "precache-manifest.c40eb4b0b0a7aaa3cc6eb0d7bc1f3481.js": "/cytus2wiki/precache-manifest.c40eb4b0b0a7aaa3cc6eb0d7bc1f3481.js",
+    "service-worker.js": "/cytus2wiki/service-worker.js",
+    "static/css/main.01a843e9.chunk.css.map": "/cytus2wiki/static/css/main.01a843e9.chunk.css.map",
+    "static/js/2.b7c2f0e2.chunk.js.LICENSE": "/cytus2wiki/static/js/2.b7c2f0e2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280f01ab.js",
+    "static/js/2.b7c2f0e2.chunk.js",
+    "static/css/main.01a843e9.chunk.css",
+    "static/js/main.4eae683c.chunk.js"
+  ]
+}
