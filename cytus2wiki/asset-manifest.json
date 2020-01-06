@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cytus2wiki/static/css/main.3d789c56.chunk.css",
-    "main.js": "/cytus2wiki/static/js/main.8a499a09.chunk.js",
-    "main.js.map": "/cytus2wiki/static/js/main.8a499a09.chunk.js.map",
+    "main.js": "/cytus2wiki/static/js/main.06ddc198.chunk.js",
+    "main.js.map": "/cytus2wiki/static/js/main.06ddc198.chunk.js.map",
     "runtime-main.js": "/cytus2wiki/static/js/runtime-main.280f01ab.js",
     "runtime-main.js.map": "/cytus2wiki/static/js/runtime-main.280f01ab.js.map",
     "static/js/2.3b9056a6.chunk.js": "/cytus2wiki/static/js/2.3b9056a6.chunk.js",
     "static/js/2.3b9056a6.chunk.js.map": "/cytus2wiki/static/js/2.3b9056a6.chunk.js.map",
     "index.html": "/cytus2wiki/index.html",
-    "precache-manifest.25ec158e153ccb6bd6e95866d956f4f5.js": "/cytus2wiki/precache-manifest.25ec158e153ccb6bd6e95866d956f4f5.js",
+    "precache-manifest.ac56dedc2438f30bdb381b51b8bddf02.js": "/cytus2wiki/precache-manifest.ac56dedc2438f30bdb381b51b8bddf02.js",
     "service-worker.js": "/cytus2wiki/service-worker.js",
     "static/css/main.3d789c56.chunk.css.map": "/cytus2wiki/static/css/main.3d789c56.chunk.css.map",
     "static/js/2.3b9056a6.chunk.js.LICENSE": "/cytus2wiki/static/js/2.3b9056a6.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.280f01ab.js",
     "static/js/2.3b9056a6.chunk.js",
     "static/css/main.3d789c56.chunk.css",
-    "static/js/main.8a499a09.chunk.js"
+    "static/js/main.06ddc198.chunk.js"
   ]
 }

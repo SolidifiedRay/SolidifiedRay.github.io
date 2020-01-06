@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "febdda4d3f1da143017c7df77a809023",
+    "revision": "41d1c019a24a0163b8d7158678b3e89d",
     "url": "/cytus2wiki/index.html"
   },
   {
-    "revision": "d4d6ff01780c21297e2e",
+    "revision": "d70afce384a66cd2ca19",
     "url": "/cytus2wiki/static/css/main.3d789c56.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cytus2wiki/static/js/2.3b9056a6.chunk.js.LICENSE"
   },
   {
-    "revision": "d4d6ff01780c21297e2e",
-    "url": "/cytus2wiki/static/js/main.8a499a09.chunk.js"
+    "revision": "d70afce384a66cd2ca19",
+    "url": "/cytus2wiki/static/js/main.06ddc198.chunk.js"
   },
   {
     "revision": "3f9c0e80d869ba07ea54",
