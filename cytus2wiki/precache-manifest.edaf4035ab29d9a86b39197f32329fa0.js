@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41d1c019a24a0163b8d7158678b3e89d",
+    "revision": "a6dc4922028c0c638e9b3a3d08cd259b",
     "url": "/cytus2wiki/index.html"
   },
   {
-    "revision": "d70afce384a66cd2ca19",
-    "url": "/cytus2wiki/static/css/main.3d789c56.chunk.css"
+    "revision": "f6d3f37e7bf2321e4212",
+    "url": "/cytus2wiki/static/css/main.ac43f9b5.chunk.css"
   },
   {
-    "revision": "e1eb25fafcb34a031483",
-    "url": "/cytus2wiki/static/js/2.3b9056a6.chunk.js"
+    "revision": "c4401dddb6512df56e02",
+    "url": "/cytus2wiki/static/js/2.117ef15a.chunk.js"
   },
   {
     "revision": "76d7a8da27b1246d0ec7305dafc313ce",
-    "url": "/cytus2wiki/static/js/2.3b9056a6.chunk.js.LICENSE"
+    "url": "/cytus2wiki/static/js/2.117ef15a.chunk.js.LICENSE"
   },
   {
-    "revision": "d70afce384a66cd2ca19",
-    "url": "/cytus2wiki/static/js/main.06ddc198.chunk.js"
+    "revision": "f6d3f37e7bf2321e4212",
+    "url": "/cytus2wiki/static/js/main.b0c0aad3.chunk.js"
   },
   {
     "revision": "3f9c0e80d869ba07ea54",
