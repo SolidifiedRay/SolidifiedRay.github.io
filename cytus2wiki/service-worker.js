@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cytus2wiki/precache-manifest.edaf4035ab29d9a86b39197f32329fa0.js"
+  "/cytus2wiki/precache-manifest.ecac8f51a738306a0812f0a60e8a2132.js"
 );
 
 self.addEventListener('message', (event) => {
