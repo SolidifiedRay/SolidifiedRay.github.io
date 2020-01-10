@@ -1,1 +1,0 @@
-雷亚RPG游戏「Sdorica -sunset-」的主题曲
