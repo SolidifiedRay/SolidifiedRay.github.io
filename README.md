@@ -2,7 +2,7 @@
 Demo page of my project
 
 **Cytus2 wiki**  
-link:cytus2wiki.com (using coding.net page)  
+link:http://cytus2wiki.com/#/  
 Code:https://github.com/SolidifiedRay/Cytus2-wiki-React  
   
 
