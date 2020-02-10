@@ -1,10 +1,10 @@
 # SolidifiedRay.github.io
 Demo page of my project
 
-**Cytus2 wiki**
-link:cytus2wiki.com (using coding.net page)
-Code:https://github.com/SolidifiedRay/Cytus2-wiki-React
-
+**Cytus2 wiki**  
+link:cytus2wiki.com (using coding.net page)  
+Code:https://github.com/SolidifiedRay/Cytus2-wiki-React  
+  
 
 **Halloween H5 Page: (please open with phone)**  
 https://solidifiedray.github.io/2019-Halloween-H5-Page/  
