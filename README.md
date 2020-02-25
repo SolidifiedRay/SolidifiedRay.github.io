@@ -1,5 +1,5 @@
 # SolidifiedRay.github.io
-Demo page of my project
+A list of my web project
 
 **Cytus2 wiki**  
 link:http://cytus2wiki.com/#/  
