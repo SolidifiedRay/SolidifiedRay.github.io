@@ -2,10 +2,8 @@
 A list of my web project
 
 **Cytus2 wiki**  
-*now move to Coding.net    
+*deploy on Coding.net    
 link:http://cytus2wiki.com  
-Code:https://github.com/SolidifiedRay/Cytus2-wiki-React  
-  
 
 **Halloween H5 Page: (please open with phone)**  
 https://solidifiedray.github.io/2019-Halloween-H5-Page/  
