@@ -2,7 +2,7 @@
 A list of my web project
 
 **Cytus2 wiki**  
-*deploy on Coding.net    
+*deployed on Coding.net    
 link:http://cytus2wiki.com  
 
 **Halloween H5 Page: (please open with phone)**  
