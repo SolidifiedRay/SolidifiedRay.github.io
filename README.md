@@ -2,7 +2,8 @@
 A list of my web project
 
 **Cytus2 wiki**  
-link:http://cytus2wiki.com/#/  
+*now move to Coding.net    
+link:http://cytus2wiki.com  
 Code:https://github.com/SolidifiedRay/Cytus2-wiki-React  
   
 
