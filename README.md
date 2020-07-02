@@ -1,6 +1,9 @@
 # SolidifiedRay.github.io
 A list of my web project
 
+**My Blog**  
+https://solidifiedray.github.io/my-blog/  
+
 **Cytus2 wiki**  
 *deployed on Coding.net    
 link:http://cytus2wiki.com  
