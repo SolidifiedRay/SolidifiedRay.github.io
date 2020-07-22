@@ -14,7 +14,7 @@ Code: https://github.com/SolidifiedRay/Halloween-H5Page-Demo
    
    
 **React Todo List**  
-This is a part of a youtube react.js crash course   
+This is from a youtube react.js crash course   
 https://solidifiedray.github.io/React-TodoList/index.html#/  
 
 **Online-Air-Ticket-Reservation-System**  
