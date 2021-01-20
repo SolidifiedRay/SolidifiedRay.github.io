@@ -1,5 +1,5 @@
 # SolidifiedRay.github.io
-A list of my projects
+A list of my works
 
 **My Blog**  
 https://solidifiedray.github.io/my-blog/  
