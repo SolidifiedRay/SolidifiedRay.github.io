@@ -4,12 +4,12 @@ A list of my works
 **My Blog**  
 https://solidifiedray.github.io/my-blog/  
 
-**Cytus2 wiki**  
+**Cytus2 wiki** (Chinese)  
 *deployed on Coding.net    
 link: http://cytus2wiki.com  
 Code: https://github.com/SolidifiedRay/Cytus2-wiki-React
 
-**Halloween H5 Page: (please open with phone)**  
+**Halloween H5 Page** (please open with phone)    
 link: https://solidifiedray.github.io/2019-Halloween-H5-Page/  
 Code: https://github.com/SolidifiedRay/Halloween-H5Page-Demo  
 
