@@ -9,7 +9,7 @@ https://solidifiedray.github.io/my-blog/
 link: http://cytus2wiki.com  
 Code: https://github.com/SolidifiedRay/Cytus2-wiki-React
 
-**Halloween H5 Page** (please open with phone)    
+**Halloween H5 Page** (please open with phone, Chinese)    
 link: https://solidifiedray.github.io/2019-Halloween-H5-Page/  
 Code: https://github.com/SolidifiedRay/Halloween-H5Page-Demo  
 
