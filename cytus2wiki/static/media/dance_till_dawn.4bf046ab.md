@@ -1,1 +1,0 @@
-三倍Icecream！！！(Somebody scream!!!)
